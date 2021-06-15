@@ -1,0 +1,13 @@
+{
+    "class_num":2,
+    "weight":[0.5,0.5],
+    "train_img_dir":"data/train.npy",
+    "train_mask_dir":"data/masks",
+    "val_img_dir":"data/val.npy",
+    "val_mask_dir":"data/masks",
+    "test_img_dir":"data/test.npy",
+    "test_mask_dir":"data/masks",
+    "use_img_dir":"data/extra.npy",
+    "output_dir":"output/",
+    "checkpoint_dir":"checkpoints"
+}
